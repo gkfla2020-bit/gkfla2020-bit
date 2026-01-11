@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요! 정하림입니다!</h1> 
+<h1 align="center">Ha Rim Jung</h1> 
 
 <p align="center">
   <b>Quantitative Researcher & Financial Engineer</b><br>
