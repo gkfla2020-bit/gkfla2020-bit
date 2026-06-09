@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/svg/banner4.svg" alt="banner" />
+<img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=Ha%20Rim%20Jung%20%F0%9F%93%8A&width=1100&height=220" alt="banner" />
 
 <h1>
   Ha Rim Jung
@@ -146,28 +146,28 @@ ACTIVITIES & LEADERSHIP
 <div align="center">
 
 <a href="https://github.com/gkfla2020-bit/EcoGuard">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=EcoGuard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=EcoGuard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/gkfla2020-bit/esg-tradeguard">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=esg-tradeguard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=esg-tradeguard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/gkfla2020-bit/wq-alpha-evolution">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=wq-alpha-evolution&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=wq-alpha-evolution&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/gkfla2020-bit/binance-hft-data-collector">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=binance-hft-data-collector&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=binance-hft-data-collector&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/gkfla2020-bit/kosdaq-ml-scalper">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=kosdaq-ml-scalper&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=kosdaq-ml-scalper&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/gkfla2020-bit/alpha-grinder">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=alpha-grinder&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=alpha-grinder&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/gkfla2020-bit/move-vasicek-model">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=move-vasicek-model&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=move-vasicek-model&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/gkfla2020-bit/asset-comovement-research">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=asset-comovement-research&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkfla2020-bit&repo=asset-comovement-research&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -215,8 +215,8 @@ ACTIVITIES & LEADERSHIP
 <div align="center">
 
 <a href="https://github.com/gkfla2020-bit">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gkfla2020-bit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkfla2020-bit&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4F8CFF&text_color=c9d1d9&langs_count=10" />
+  <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gkfla2020-bit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=4F8CFF&icon_color=4F8CFF&text_color=c9d1d9&rank_icon=github" />
+  <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gkfla2020-bit&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4F8CFF&text_color=c9d1d9&langs_count=10" />
 </a>
 
 <br/>
@@ -225,7 +225,7 @@ ACTIVITIES & LEADERSHIP
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gkfla2020-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-trophies.vercel.app/?username=gkfla2020-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 <br/><br/>
 
