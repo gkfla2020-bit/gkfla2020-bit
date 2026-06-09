@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img width="90%" src="https://svg-banners.vercel.app/api?type=origin&text1=Ha%20Rim%20Jung&text2=Quantitative%20Researcher%20%C2%B7%20Sogang%20University&width=900&height=220" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2547,100:c4ac80&height=220&section=header&text=Ha%20Rim%20Jung&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Quantitative%20Researcher%20%C2%B7%20Sogang%20University&descAlignY=66&descSize=18&animation=fadeIn" alt="banner" />
 
 <br/>
 
