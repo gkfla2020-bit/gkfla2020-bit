@@ -11,6 +11,7 @@
 <a href="https://gkfla2020-bit.github.io"><img src="https://img.shields.io/badge/Website-gkfla2020--bit.github.io-1f6feb?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
 <a href="mailto:gkfla2020@gmail.com"><img src="https://img.shields.io/badge/Email-gkfla2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/gkfla2020-bit"><img src="https://img.shields.io/badge/GitHub-gkfla2020--bit-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harim-jung-a44338396"><img src="https://img.shields.io/badge/LinkedIn-Harim%20Jung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=gkfla2020-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 
