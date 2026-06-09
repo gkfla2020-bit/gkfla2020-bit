@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Ha%20Rim%20Jung%20%E2%80%94%20Quantitative%20Researcher&text2=Stochastic%20Modeling%20%C2%B7%20Interest%20Rate%20%C2%B7%20Systematic%20Trading&width=1100&height=240" alt="banner" />
+<img width="90%" src="https://svg-banners.vercel.app/api?type=origin&text1=Ha%20Rim%20Jung&text2=Quantitative%20Researcher%20%C2%B7%20Sogang%20University&width=900&height=220" alt="banner" />
 
 <br/>
 
